@@ -12,8 +12,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
-/* 
-Опять POST, а не GET
+/* POST again, no GET
 */
 
 public class Solution {
